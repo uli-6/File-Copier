@@ -7,3 +7,11 @@ usage:
   python3 main.py -cDir /path/to/copy/from -sDir /path/to/save/to
   
   python3 main.py -cDir /path/to/copy/from /as/many/copy/paths/as/you/want -sDir /path/to/save/to
+  
+linux executable:
+
+  ./main.py --gui
+  
+  ./main.py -cDir /path/to/copy/from -sDir /path/to/save/to
+  
+  ./main.py -cDir /path/to/copy/from /as/many/copy/paths/as/you/want -sDir /path/to/save/to
